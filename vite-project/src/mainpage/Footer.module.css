@@ -1,0 +1,15 @@
+.estilo {
+    position: absolute;
+    color: white;
+    background: #A5D7E8;
+    top: 650px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.texto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
